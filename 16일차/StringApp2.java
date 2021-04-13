@@ -80,7 +80,7 @@ public class StringApp2 {
 		
 		// 	String trim()
 		// 문자열에서 불필요한 좌우 공백이 제거된 새로운 문자열을 반환한다.
-		String srt13 = "                안녕                    안녕                 ";
+		String str13 = "                안녕                    안녕                 ";
 		String str14 = str13.trim();
 		System.out.println("원본 문자열: " ["+ str13 +"]");
 		System.out.println("공백이 제거된 문자열: " ["+ str14 +"]");		
